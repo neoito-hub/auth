@@ -2,8 +2,8 @@
   "name": "auth",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/neoito-hub/auth.git",
+    "ssh": "git@github.com:neoito-hub/auth.git",
     "branch": "block_auth"
   },
   "dependencies": {
@@ -50,6 +50,8 @@
   "blockId": "u1xRbbdYB-G3Vp0oFeF7y",
   "parentBlockIDs": [],
   "isPublic": true,
-  "supportedAppblockVersions": ["1.0.0"],
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
   "repoType": "mono"
 }

@@ -3,8 +3,8 @@
   "name": "auth_fe_login_layout",
   "type": "ui-elements",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/neoito-hub/auth.git",
+    "ssh": "git@github.com:neoito-hub/auth.git",
     "branch": "block_auth_fe_login_layout"
   },
   "parentBlockIDs": [

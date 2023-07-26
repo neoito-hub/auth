@@ -3,8 +3,8 @@
   "name": "auth_be_shared",
   "type": "shared-fn",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/neoito-hub/auth.git",
+    "ssh": "git@github.com:neoito-hub/auth.git",
     "branch": "block_auth_be_shared"
   },
   "parentBlockIDs": [
