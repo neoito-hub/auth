@@ -1,0 +1,20 @@
+{
+  "blockId": "ERwPCG1D6pVjal5j0C29Z",
+  "name": "auth_be_reset_password",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/neoito-hub/auth.git",
+    "ssh": "git@github.com:neoito-hub/auth.git",
+    "branch": "block_auth_be_reset_password"
+  },
+  "parentBlockIDs": [
+    "u1xRbbdYB-G3Vp0oFeF7y"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
