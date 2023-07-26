@@ -8,18 +8,7 @@
     "build": "webpack --mode production",
     "serve": "webpack-cli serve",
     "clean": "rm -rf dist",
-    "test": "jest",
-    "coverage": "jest --coverage",
-    "lint": "npx eslint *.js",
-    "lint:fix": "npx eslint *.js --fix",
-    "format": "npx prettier ./**/*{.js,.json} --write",
     "pre-commit": "npx lint-staged"
-  },
-  "lint-staged": {
-    "*.js": [
-      "npm run lint:fix",
-      "npm run format"
-    ]
   },
   "dependencies": {
     "@appblocks/js-sdk": "^0.0.14",
