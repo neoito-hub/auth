@@ -1,0 +1,20 @@
+{
+  "blockId": "vigydzZTiuQKzblnlMsJF",
+  "name": "auth_be_shared",
+  "type": "shared-fn",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_auth_be_shared"
+  },
+  "parentBlockIDs": [
+    "u1xRbbdYB-G3Vp0oFeF7y"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

@@ -1,0 +1,16 @@
+{
+  "blockId": "lp6bTA_aco56UC3IPnKYZ",
+  "name": "auth_be_verify_email",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_auth_be_verify_email"
+  },
+  "parentBlockIDs": ["u1xRbbdYB-G3Vp0oFeF7y"],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": ["1.0.0"],
+  "isPublic": true,
+  "start": "node index.js"
+}

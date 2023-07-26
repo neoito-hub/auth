@@ -1,0 +1,16 @@
+{
+  "blockId": "I8RpLQ3IUcaSBOVAdsQ8E",
+  "name": "auth_be_send_otp_for_verification",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_auth_be_send_otp_for_verification"
+  },
+  "parentBlockIDs": ["u1xRbbdYB-G3Vp0oFeF7y"],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": ["1.0.0"],
+  "isPublic": true,
+  "start": "node index.js"
+}

@@ -1,0 +1,21 @@
+{
+  "blockId": "nPWjw6AIpnrCCblzZi44O",
+  "name": "auth_fe_login_layout",
+  "type": "ui-elements",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_auth_fe_login_layout"
+  },
+  "parentBlockIDs": [
+    "u1xRbbdYB-G3Vp0oFeF7y"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}

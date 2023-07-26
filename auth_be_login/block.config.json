@@ -1,0 +1,16 @@
+{
+  "blockId": "H89D-AFZoaqcRVSku0S6f",
+  "name": "auth_be_login",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_auth_be_login"
+  },
+  "parentBlockIDs": ["u1xRbbdYB-G3Vp0oFeF7y"],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": ["1.0.0"],
+  "isPublic": true,
+  "start": "node index.js"
+}
